@@ -1,0 +1,20 @@
+[  
+    {  
+        "username": "student1",  
+        "password_hash": "hashed_password_1",  
+        "classroom": "math101",  
+        "roles": ["student"]  
+    },  
+    {  
+        "username": "teacher1",  
+        "password_hash": "hashed_password_2",  
+        "classroom": "math101",  
+        "roles": ["teacher"]  
+    },  
+    {  
+        "username": "admin1",  
+        "password_hash": "hashed_password_3",  
+        "classroom": "admin_classroom",  
+        "roles": ["admin"]  
+    }  
+]
